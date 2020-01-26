@@ -1,1 +1,1 @@
-In this week we will review Python and basic machine learning concepts.
+These contains all the homeworks and their respective solutions for the course. It will go in depth of the machine learning methods we have discussed in class. Although the solutions or the code was not written by me, I had written an analogous solutions for the course. I have also received an A- for this course.
