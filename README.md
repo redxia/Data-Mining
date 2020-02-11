@@ -1,4 +1,4 @@
-# Data-Mining
+# Data-Mining Winter 2018
 Machine Learning and Data Mining
 Data Mining: Regression [Linear (Selection and Shrinkage, Dimension Reduction, Beyond Linearity) & Non-Linear Regressions (Logistics, K-NN, Trees)], Cross Validation (LOOCV, K-Folds, Bias vs. Variance), Classification (LDA, QDA, K-NN, Logistic, Tree, SVM), Clustering (PCA, K-Means, Hierarchical)
 
