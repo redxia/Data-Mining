@@ -6,5 +6,7 @@ This course will provide an introduction to main topics in data mining / statist
 You may find my final project in the stats 415 project folder.
 
 Project Summary
+
  Implemented all the classifier learned throughout the semester to predict obesity rates in America as classified through the BMI with the best classifier as 7-fold KNN and prediction accuracy of 81.54%  
+
  Analyzed model selection methods to provide the most optimal model and finding the best predictors; concluded that BMI can be non-parametrically predicted based off income, eating habits, exercise habits and shopping habits
